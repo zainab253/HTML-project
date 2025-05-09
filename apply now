@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>print more about us </title>
+</head>
+<body>
+<u><h1 align="center">ADMISSION FORM</h1></u>
+<form>
+<lable>First Name:</lable>
+ <input type="text">
+<lable>Last Name:</lable>
+ <input type="text">
+ <br>
+ <br>
+ <lable>Age:</lable>
+ <input type="number">
+ <lable>date</lable>
+ <input type="date">
+    <br>
+    <br>
+<lable>gender: </lable>
+ <lable>male</lable>
+ <input type="radio">
+ <lable>Female</lable>
+ <input type="radio">
+ <br>
+ <br>
+ <lable>email</lable>
+ <input type="email">
+ <br>
+ <br>
+ <button type="submit">submit</button>
+</form>
+<hr>
+<h3>Browsers</h3>
+<ul>
+  <li>Google chrome</li>
+  <li>Mozilla Firefox</li>
+  <li>Microsoft edge</li>
+</ul>
+<h3>Search engines</h3>
+<ol>
+    <li>Google</li>
+    <li>Bing</li>
+    <li>Yahoo</li>
+</ol>
+<hr>
+<dl>
+    <b>E-Zine</dt></b>
+    <dd>Electronic magazine</dd>
+    <b><dt>URL</dt></b>
+    <DD>Uniform Resource Locator</DD>
+</dl>
+<hr>
+<iframe src="Assigment audio.mp3" align="right"></iframe>
+    </body>
+      </html>
